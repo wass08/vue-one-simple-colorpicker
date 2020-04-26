@@ -1,7 +1,7 @@
 # vue-one-simplecolorpicker
 A simple colorpicker for Vue JS!
 
-![N|Solid](//s3-eu-west-1.amazonaws.com/dev.appdrag.com/appalga/assets/colorpicker.jpg)
+![Color Picker preview](https://www.appalga.com/assets/colorpicker.jpg)
 
 ### Installation
 
