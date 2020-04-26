@@ -1,8 +1,8 @@
 {
   "name": "vue-one-simple-colorpicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Vue.js Color Picker",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "dependencies": {
     "lodash": "^4.17.15"
   },
