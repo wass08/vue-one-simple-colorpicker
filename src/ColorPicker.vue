@@ -311,6 +311,7 @@ export default {
   }
   .colorpicker {
     position:relative;
+    text-align: left;
   }
 
   .colorpicker-right {
